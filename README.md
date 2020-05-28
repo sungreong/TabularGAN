@@ -1,0 +1,2 @@
+# TabularGAN
+ Synthetic data generation
