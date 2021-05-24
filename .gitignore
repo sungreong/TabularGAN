@@ -1,3 +1,7 @@
+# folder 추가
+dataset/
+lightning_logs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
