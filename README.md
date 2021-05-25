@@ -7,9 +7,9 @@
 
 * Pytorch Lightning으로 GAN 알고리즘 구현
     * GAN
-    * WGAN [TODO]
+    * LSGAN 
+    * WGAN
     * WGAN-GP [TODO]
-    * LSGAN [TODO]
     * CGAN [TODO]
     * ...
 
