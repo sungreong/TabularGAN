@@ -1,6 +1,7 @@
 # folder 추가
-dataset/
+# dataset/
 lightning_logs
+dataset
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

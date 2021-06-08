@@ -3,7 +3,14 @@
 
 ## PyTorch Lightning 으로 GAN 코드 만들기
 
-# Output
+
+## DataSet
+
+[creditcard]()
+
+
+
+## Output
 
 * Pytorch Lightning으로 GAN 알고리즘 구현
     * GAN
