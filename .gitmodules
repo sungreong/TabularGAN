@@ -1,0 +1,3 @@
+[submodule "TABNET_simple"]
+	path = TABNET_simple
+	url = https://github.com/sungreong/TABNET_simple.git

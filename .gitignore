@@ -3,8 +3,6 @@
 lightning_logs
 dataset
 model
-## 추가
-TABNET_simple/.git 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
